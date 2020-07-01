@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/DES-Application/C_Classes/Des_K16.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+../Head_Classes/Des_Permutation.h
+/root/CLionProjects/DES-Application/Head_Classes/Des_Permutation.h
+../Head_Classes/Des_FonctionF.h
+/root/CLionProjects/DES-Application/Head_Classes/Des_FonctionF.h
+../Head_Classes/Des_TablesPermut.h
+/root/CLionProjects/DES-Application/Head_Classes/Des_TablesPermut.h
+../Head_Classes/Des_Algorithme.h
+/root/CLionProjects/DES-Application/Head_Classes/Des_Algorithme.h
+
+/root/CLionProjects/DES-Application/Head_Classes/Des_Algorithme.h
+
+/root/CLionProjects/DES-Application/Head_Classes/Des_FonctionF.h
+
+/root/CLionProjects/DES-Application/Head_Classes/Des_Permutation.h
+
+/root/CLionProjects/DES-Application/Head_Classes/Des_TablesPermut.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
